@@ -1,0 +1,77 @@
+@media screen and (max-width: 922px) {
+    .input-cari .button-secondary {
+        width: 120px;
+        font-size: 14px;
+    }
+
+    .input-cari .button-primary {
+        font-size: 24px;
+    }
+}
+
+@media screen and (max-width : 576px) {
+    .hero-tagline h1 {
+        line-height: 52px;
+    }
+    .img-hero {
+        width: 75%;
+        height: auto;
+    }
+    h2 {
+        font-size: 30px;
+    }
+    .sub-title {
+        font-size: 13px;
+    }
+    .card-layanan {
+        margin: 15px 0;
+    }
+
+    #search h2 {
+        font-size: 40px;
+        line-height: 50px;
+    }
+    
+    #search p { 
+        font-size: 16px;
+        line-height: 23px;
+    }
+
+    .input-cari .button-secondary {
+        width: 50%;
+        height: 50px;
+        border-radius: 0;
+    }
+
+    .input-cari .button-primary {
+        height: 50px;
+        width: 30%;
+        font-size: 18px;
+        border-radius: 0 0 10px 0;
+    }
+    .button-reservasi {
+        width: 100%;
+    }
+
+    #contact h3 {
+        font-size: 30px;
+        width: 100%;
+    }
+
+    .card-contact {
+        width: 100%;
+        height: auto;
+        padding: 52px 48px;
+        margin-top: 42px;
+    }
+    
+    .card-contact h2 {
+        font-size: 32px;
+        line-height: 42px;
+        margin-bottom: 21px;
+    }
+}
+
+@media screen and (max-width : 350px) {
+
+}
